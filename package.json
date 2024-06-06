@@ -1,0 +1,30 @@
+{
+  "name": "@joaopedrogomes/nif-pt",
+  "description": "Validate and get more information from portuguese tax ID numbers ",
+  "version": "1.0.0",
+  "author": "João Pedro Gomes",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopedrogomes/nif-pt.git"
+  },
+  "keywords": [
+    "nif",
+    "financas",
+    "portugal",
+    "nipc",
+    "validador",
+    "nif",
+    "numero",
+    "identificacao",
+    "fiscal"
+  ],
+  "bugs": {
+    "url": "https://github.com/joaopedrogomes/nif-pt/issues"
+  },
+  "homepage": "https://github.com/joaopedrogomes/nif-pt#readme"
+}
